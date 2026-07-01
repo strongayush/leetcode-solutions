@@ -1,6 +1,6 @@
 """
 Problem: Palindrome Number
-Link: https://leetcode.com/problems/palindrome-number/
+Link: https://leetcode.com/problems/palindrome-number/description/?envType=problem-list-v2&envId=math
 Difficulty: Easy
 Approach: Convert the int into str and then used the slice notation to check if it's Panlindrome
 Time: |Space: 
